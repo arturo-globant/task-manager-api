@@ -1,0 +1,1 @@
+ /Users/arturo.gascon/mongodb/bin/mongod.exe --dbpath=/Users/arturo.gascon/mongodb-data
